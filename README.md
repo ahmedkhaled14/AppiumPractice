@@ -17,15 +17,40 @@
  
  *Allure Report*
  
--  ### 🏗️ Project Design:
+- ### 🏗️ Project Design:
+
  *Page Object Model (POM) design pattern*
- 
- *Data Driven framework*
  
  *Fluent design approach*
  
+ *Data Driven framework*
+ 
  *Java Docs*
  
+ ## Documentation
+* **[Appium Docs](http://appium.io/docs/en/2.0/quickstart/)**
+ 
+ ## Requirements
+
+* Java JDK-19 
+* Appium 2.0
+* Maven
+* Android Emulator 
+
+## Running Tests
+
+1. Start appium server: `appium` 
+2. start android emulator
+### Run All tests open a command-line terminal on the project root path:
+3. Run android tests:
+` mvn clean test` 
+4. Generate reports:
+`mvn allure:serve`
+
+
+
+
+
 -  ### 📄 Allure Report: 
  
 ![Screenshot 2023-04-27 201554](https://user-images.githubusercontent.com/68038931/234966221-17ad844d-92af-43e3-96d6-ec328ad964ba.png)
