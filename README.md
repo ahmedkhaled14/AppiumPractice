@@ -41,7 +41,7 @@
 
 1. Start appium server: `appium` 
 2. start android emulator
-### Run All tests open a command-line terminal on the project root path:
+### Run All tests open a terminal on the project root path:
 3. Run android tests:
 ` mvn clean test` 
 4. Generate reports:
