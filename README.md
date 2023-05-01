@@ -11,21 +11,21 @@
  
  ### 📝 The main Frameworks included in the project:
 
- *Appium*
+ * Appium
  
- *TestNG*
+ * TestNG
  
- *Allure Report*
+ * Allure Report
  
  ### 🏗️ Project Design:
 
- *Page Object Model (POM) design pattern*
+ * Page Object Model (POM) design pattern
  
- *Fluent design approach*
+ * Fluent design approach
  
- *Data Driven framework*
+ * Data Driven framework
  
- *Java Docs*
+ * Java Docs
  
  ### 🗃️ Documentation
 * **[Appium Docs](http://appium.io/docs/en/2.0/quickstart/)**
