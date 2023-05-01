@@ -9,7 +9,7 @@
  ![Screenshot 2023-04-27 205939](https://user-images.githubusercontent.com/68038931/234965123-d83a5fa8-bd9f-46ab-9d32-2ecfb7d25387.png) 
  </div>
  
-- ### 📝 The main Frameworks included in the project:
+ ### 📝 The main Frameworks included in the project:
 
  *Appium*
  
