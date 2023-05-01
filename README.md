@@ -27,17 +27,17 @@
  
  *Java Docs*
  
- ## Documentation
+ ## 🗃️ Documentation
 * **[Appium Docs](http://appium.io/docs/en/2.0/quickstart/)**
  
- ## Requirements
+ ## 🚧 Requirements
 
 * Java JDK-19 
 * Appium 2.0
 * Maven
 * Android Emulator 
 
-## Running Tests
+## 🚀 Running Tests
 
 1. Start appium server: `appium` 
 2. start android emulator
